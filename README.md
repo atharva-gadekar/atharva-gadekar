@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Atharva, a passionate B.Tech student majoring 
 
 ### About Me ℹ️
 - 💻 Currently pursuing a B.Tech degree in Information Technology with a CGPA of 8.48.
-- I am a full-stack Web Developer. My proficiency spans technologies like ReactJs, NextJs, MongoDB, Prisma, TailwindCSS, NodeJS, and AWS S3.
+- ⭐ I am a full-stack Web Developer. My proficiency spans technologies like ReactJs, NextJs, MongoDB, Prisma, TailwindCSS, NodeJS, and AWS S3.
 
 ### Internship Experience 💼
 - 🚀 Currently a Frontend Developer Intern at Buzztro, developing the Admin Side.
@@ -31,6 +31,8 @@ Welcome to my GitHub profile! I'm Atharva, a passionate B.Tech student majoring 
 ### Let's Connect! 🤝
 I'm excited about opportunities where I can contribute and grow. Feel free to reach out to me to discuss collaborations, projects, or anything else you find intriguing. Thank you for stopping by!
 
-[Connect with me on LinkedIn](#) | [Check out my projects](#)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-gadekar-0baa11228/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://atharva-gadekar.notion.site/atharva-gadekar/Atharva-s-Portfolio-d73d37836691434099771a374d21a1b8)
+
 
 Looking forward to hearing from you! 😊
