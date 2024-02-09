@@ -36,3 +36,11 @@ I'm excited about opportunities where I can contribute and grow. Feel free to re
 
 
 Looking forward to hearing from you! 😊
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-gadekar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=atharva-gadekar.atharva-gadekar)
+
+<img src="https://myreadme.vercel.app/api/embed/atharva-gadekar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
