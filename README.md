@@ -7,13 +7,14 @@ Welcome to my GitHub profile! I'm Atharva, a passionate B.Tech student majoring 
 - I am a full-stack Web Developer. My proficiency spans technologies like ReactJs, NextJs, MongoDB, Prisma, TailwindCSS, NodeJS, and AWS S3.
 
 ### Internship Experience 💼
-- 🚀 Currently a Frontend Developer Intern at Buzztro, specializing in Admin Side development.
-- 🌟 Authored key features like authentication and detailed product management.
-- 🔧 Implementing real-time updates on Payments, Delivery, and Customer segments using sockets.
+- 🚀 Currently a Frontend Developer Intern at Buzztro, developing the Admin Side.
+- 💻 Used refine.dev, NextJs, Typescript and MUI during this internship.
+- 🌟 Authored key features like authentication and product & variant management, bookings, orders and drops.
+- 🔧 Implementing real-time updates on Drop updates using sockets.
 
 ### Technical Skills 🛠️
-- 👨‍💻 Proficient in languages such as C++.
-- 💡 Expertise in web technologies including HTML, CSS, Tailwind, and JavaScript.
+- 👨‍💻 Proficient in languages such as C++ and Javascript.
+- 💡 Expertise in web technologies including HTML, CSS, Tailwind, Prisma.
 - 🌐 Experience with ReactJs, NextJs, NodeJS, TypeScript, and MongoDB.
 - 🚀 Worked on projects like WorkWise - a project management tool, Utkarsh - PCell Portal, Connexa - A social media website, LnF IIIT A - Lost and Found Portal and several others.
 - ☁️ Experimented with AWS Ec2 and AWS S3 through various projects.
